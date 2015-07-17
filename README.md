@@ -18,7 +18,10 @@ Creando un nuevo archivo:
 touch README
 
 Añadiendo un nuevo archivo:
-git add README
+git add README 
+si deseas subir todos los archivos puedes poner
+git add .
+esto subira todos los archivos que tengas en tu repo local
 
 Tu primer Commit:
 git commit -m "Tu primer commit Descripcion"
@@ -34,3 +37,13 @@ git push origin master (origin es el nombre el repo, master es la rama)
 
 Para obtener todo el repo:
 git pull origin master
+
+###############################################
+Para tabajar en branches
+
+para crear una nueva rama
+git branch nombre-de-la-nueva-rama
+
+para cambiar entre ramas
+git checkout nombre-de-la-rama-a-la-que-quieres-ir
+
