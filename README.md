@@ -21,7 +21,7 @@ Añadiendo un nuevo archivo:
 git add README 
 si deseas subir todos los archivos puedes poner
 git add .
-esto subira todos los archivos que tengas en tu repo local
+esto subira todos los archivos que tengas en tu repositorio local
 
 Tu primer Commit:
 git commit -m "Tu primer commit Descripcion"
