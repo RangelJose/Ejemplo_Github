@@ -26,11 +26,11 @@ git add README
 
 Tu primer Commit:
 
-git commit -m "Tu primer commit"
+git commit -m "Tu primer commit Descripcion"
 
 Subirlo a github
 
-git push origin master
+git push origin master (master es la rama)
 
 Checar el estatus de tu repo:
 
