@@ -28,11 +28,16 @@ Tu primer Commit:
 
 git commit -m "Tu primer commit Descripcion"
 
+Creando un nombre para el repo:
+
+git remote add http-del-repositorio-en-la-pagina-de-git
+
 Subirlo a github
 
-git push origin master (master es la rama)
+git push origin master (origin es el nombre el repo, master es la rama)
 
 Checar el estatus de tu repo:
 
 git status
+
 
